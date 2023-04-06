@@ -15,3 +15,7 @@ if (earlyRegistration && runnerAge > 18) {
 } else {
   console.log("See registration desk!");
 }
+
+
+
+// CODEACADEMY exercice
